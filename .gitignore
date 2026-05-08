@@ -1,0 +1,7 @@
+config.properties
+record_temp.wav
+tts_temp.mp3
+*.log
+STT/
+__pycache__/
+*.pyc
